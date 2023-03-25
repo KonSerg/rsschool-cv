@@ -7,7 +7,7 @@
 
 **Phone:** +996 (501) 39-99-26  
 **Email:** k.pechnikov@errno.ru  
-**Telegram:** @konsergos  
+**Telegram:** [@konsergos  ](https://t.me/konsergos)  
 **Location:** Kyrgyz Republic, Bishkek city
 
 ---
@@ -69,14 +69,14 @@ Currently, the main goal is to study new technologies to improve professionalism
 
 ## Work experience:
 
-- Сomputer and office equipment repair engineer (2009 - 2014)
-- Freelance: Web-Development (2010 - 2020)
-- Web-Developer,  (2020 - 2022)
-- Small own company – CRM Integration (Since 2022 for same time).
+- Сomputer and office equipment repair engineer (2009-2014)
+- Freelance: Web-Development (2010-2020)
+- Web-Developer and head of the tech department in small company for the integration of CRM Bitrix24 (2020-2022)
+- Own CRM Integration company (Since 2022 for same time).
 
 ---
 
 ## Languages:
 
-- English (A2 - B1) LINKS HERE
 - Russian (Native)
+- English (A2 - B1)
