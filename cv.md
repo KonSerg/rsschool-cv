@@ -8,15 +8,17 @@
 **Phone:** +996 (501) 39-99-26  
 **Email:** k.pechnikov@errno.ru  
 **Telegram:** @konsergos  
-**Location:** Kyrgyzstan, Bishkek city
+**Location:** Kyrgyz Republic, Bishkek city
 
 ---
 
 ## About Me:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in felis arcu. Ut cursus ante nisl, a feugiat dui rhoncus vel. Donec quis aliquam sem, nec iaculis augue. Suspendisse accumsan, sem eu lobortis fermentum, eros turpis molestie urna, at fringilla lorem purus sed eros.
+Started my IT career as a computer repairer in 2009. In parallel, I worked as a freelancer in web-development. I had to learn and work with different CMS. Finally, I learned wordpress on my own and worked with it for many years. 
 
-Praesent gravida suscipit erat, in imperdiet lectus laoreet et. In ornare purus leo, ut molestie neque posuere eget. Pellentesque odio velit, consectetur porttitor viverra nec, elementum vitae diam.
+Recently, my main profile is FullStack development on 1C-Bitrix CMS and Bitrix24. For some time I was the head of the tech department in small company for the integration of CRM Bitrix24. During that time, I realized that my strengths are: stress tolerance, crisis management, independence, mentoring, responsibility. 
+
+Currently, the main goal is to study new technologies to improve professionalism in web development. Desire to work in a large IT company.
 
 ---
 
@@ -25,16 +27,17 @@ Praesent gravida suscipit erat, in imperdiet lectus laoreet et. In ornare purus 
 - HTML, CSS, SCSS
 - PHP, JavaScript
 - Linux
-- GIT
-- Markdown (recently)
 - Bitrix24 & Bitrix24 Rest API
 - 1C-Bitrix Framework
+- GIT (recently)
+- Markdown (recently)
+
 
 | **Software**  | |
 | ------------- | ------------- |
 | Photoshop | 🔴🔴🔴⚪⚪ |
 | Figma | 🔴🔴🔴⚪⚪ |
-| MS Office | 🔴🔴🔴⚪⚪ |
+| MS Office | 🔴🔴⚪⚪⚪ |
 
 ---
 
@@ -52,9 +55,9 @@ Praesent gravida suscipit erat, in imperdiet lectus laoreet et. In ornare purus 
 
 - **University:** Kyrgyz National University, Kyrgyz-American faculty of Information Tehnologies, Bachelor of speciality Information Technologies & Internet.
 
-[Correct later these block |]: # 
+- **Self-Study:** JavaScript, PHP, CSS, HTML. 
 
-- Courses
+- **Courses:**
 
     - [1C-Bitrix "Content-Manager"](https://dev.1c-bitrix.ru/certificates/learning.php?course=34)
     - [1C-Bitrix "Installation and Setup"](https://dev.1c-bitrix.ru/certificates/learning.php?course=135)
@@ -65,7 +68,11 @@ Praesent gravida suscipit erat, in imperdiet lectus laoreet et. In ornare purus 
 ---
 
 ## Work experience:
-[Add here Work experience |]: # 
+
+- Сomputer and office equipment repair engineer (2009 - 2014)
+- Freelance: Web-Development (2010 - 2020)
+- Web-Developer,  (2020 - 2022)
+- Small own company – CRM Integration (Since 2022 for same time).
 
 ---
 
